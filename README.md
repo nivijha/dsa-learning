@@ -39,8 +39,8 @@ All solutions in this repository are implemented in **Java**.
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/nivijha/DSA.git
-cd DSA
+git clone https://github.com/nivijha/dsa-learning.git
+cd dsa-learning
 ```
 
 2. **Browse the folders by topic**  
