@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ValidPranthesis",
+            "request": "launch",
+            "mainClass": "Stacks.ValidPranthesis",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "NextGreaterElement",
+            "request": "launch",
+            "mainClass": "Stacks.NextGreaterElement",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "StockSpanProblem",
+            "request": "launch",
+            "mainClass": "Stacks.StockSpanProblem",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStack",
+            "request": "launch",
+            "mainClass": "Stacks.ReverseStack",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Stacks.Reverse",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "PushAtBottom",
+            "request": "launch",
+            "mainClass": "Stacks.PushAtBottom",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingLL",
+            "request": "launch",
+            "mainClass": "Stacks.StackUsingLL",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "Stacks.basic",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
             "name": "DoubleLL",
             "request": "launch",
             "mainClass": "LinkedList.DoubleLL",
