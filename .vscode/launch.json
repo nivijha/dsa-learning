@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxAreaHistogram",
+            "request": "launch",
+            "mainClass": "Stacks.MaxAreaHistogram",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateParantheses",
+            "request": "launch",
+            "mainClass": "Stacks.DuplicateParantheses",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
             "name": "ValidPranthesis",
             "request": "launch",
             "mainClass": "Stacks.ValidPranthesis",

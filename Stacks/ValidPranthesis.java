@@ -33,7 +33,7 @@ public class ValidPranthesis {
         
     }
     public static void main(String[] args) {
-        String str = "(({})[])]";
+        String str = "(()())";
         System.out.println(validPranthesis(str));
     }
 }
