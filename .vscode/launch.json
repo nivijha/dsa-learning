@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StackQueueUsingDeque",
+            "request": "launch",
+            "mainClass": "Queue.StackQueueUsingDeque",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "DequeQ",
+            "request": "launch",
+            "mainClass": "Queue.DequeQ",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "QueueReversal",
+            "request": "launch",
+            "mainClass": "Queue.QueueReversal",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "Interleave2Halves",
+            "request": "launch",
+            "mainClass": "Queue.Interleave2Halves",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "NonRepeatingLetter",
+            "request": "launch",
+            "mainClass": "Queue.NonRepeatingLetter",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "QueueUsingStack",
+            "request": "launch",
+            "mainClass": "Queue.QueueUsingStack",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "QueueJCF",
+            "request": "launch",
+            "mainClass": "Queue.QueueJCF",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "QueueUsingLL",
+            "request": "launch",
+            "mainClass": "Queue.QueueUsingLL",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "CircularQueueUsingArray",
+            "request": "launch",
+            "mainClass": "Queue.CircularQueueUsingArray",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "QueueUsingArray",
+            "request": "launch",
+            "mainClass": "Queue.QueueUsingArray",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
             "name": "MaxAreaHistogram",
             "request": "launch",
             "mainClass": "Stacks.MaxAreaHistogram",
