@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ChocolaProb",
+            "request": "launch",
+            "mainClass": "Greedy.ChocolaProb",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "JobSequencing",
+            "request": "launch",
+            "mainClass": "Greedy.JobSequencing",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "IndianCoins",
+            "request": "launch",
+            "mainClass": "Greedy.IndianCoins",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "MaxLengthChainOfPairs",
+            "request": "launch",
+            "mainClass": "Greedy.MaxLengthChainOfPairs",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "MinAbsoluteDiff",
+            "request": "launch",
+            "mainClass": "Greedy.MinAbsoluteDiff",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "FractionalKnapsack",
+            "request": "launch",
+            "mainClass": "Greedy.FractionalKnapsack",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "ActivitySelection",
+            "request": "launch",
+            "mainClass": "Greedy.ActivitySelection",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
             "name": "StackQueueUsingDeque",
             "request": "launch",
             "mainClass": "Queue.StackQueueUsingDeque",
