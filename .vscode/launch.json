@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TransformSumTree",
+            "request": "launch",
+            "mainClass": "BinaryTree.TransformSumTree",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "LowestCommonAncestor",
+            "request": "launch",
+            "mainClass": "BinaryTree.LowestCommonAncestor",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "KthLevel",
+            "request": "launch",
+            "mainClass": "BinaryTree.KthLevel",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "TopViewTree",
+            "request": "launch",
+            "mainClass": "BinaryTree.TopViewTree",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTrees",
+            "request": "launch",
+            "mainClass": "BinaryTree.BinaryTrees",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
             "name": "ChocolaProb",
             "request": "launch",
             "mainClass": "Greedy.ChocolaProb",
