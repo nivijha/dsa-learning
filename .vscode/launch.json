@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AVLTree",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.AVLTree",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "Merge2BST",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.Merge2BST",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "SizeOfLargestBST",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.SizeOfLargestBST",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "BSTtoBalancedBST",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.BSTtoBalancedBST",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "SortedArrayToBST",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.SortedArrayToBST",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "BST",
+            "request": "launch",
+            "mainClass": "BinarySearchTree.BST",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
             "name": "TransformSumTree",
             "request": "launch",
             "mainClass": "BinaryTree.TransformSumTree",
