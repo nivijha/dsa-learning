@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedHashmap",
+            "request": "launch",
+            "mainClass": "LinkedHashmap",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "hashmapCode",
+            "request": "launch",
+            "mainClass": "hashmapCode",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "hashmap",
+            "request": "launch",
+            "mainClass": "hashmap",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "LLmergeSort",
+            "request": "launch",
+            "mainClass": "LLmergeSort",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "LL_mergeSort",
+            "request": "launch",
+            "mainClass": "LL_mergeSort",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "LL_framework",
+            "request": "launch",
+            "mainClass": "LL_framework",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "HeapUsingArrayList",
+            "request": "launch",
+            "mainClass": "Heap.HeapUsingArrayList",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "Priorityqueue",
+            "request": "launch",
+            "mainClass": "Queue.Priorityqueue",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "LL_mergeSort",
+            "request": "launch",
+            "mainClass": "LinkedList.LL_mergeSort",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
             "name": "AVLTree",
             "request": "launch",
             "mainClass": "BinarySearchTree.AVLTree",

@@ -1,4 +1,4 @@
-package LinkedList;
+
 
 public class deleteNthNode {
     public static class Node{

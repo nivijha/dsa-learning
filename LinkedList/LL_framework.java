@@ -1,4 +1,3 @@
-package LinkedList;
 import java.lang.classfile.components.ClassPrinter.Node;
 import java.util.LinkedList;
 
@@ -23,7 +22,7 @@ public class LL_framework {
         ll.removeFirst();
         System.out.println(ll) ;
 
-        Node<Integer> newLL= new Node<>(-1);
+        // Node<Integer> newLL= new Node<>(-1);
 
     }
 }
