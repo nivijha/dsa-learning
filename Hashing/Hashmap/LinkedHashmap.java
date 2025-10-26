@@ -1,3 +1,4 @@
+package Hashmap;
 import java.util.*;
 public class LinkedHashmap {
     public static void main(String[] args) {

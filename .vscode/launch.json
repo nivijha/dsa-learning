@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindItenaryFromTickets",
+            "request": "launch",
+            "mainClass": "Hashset.FindItenaryFromTickets",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "UnionIntersection",
+            "request": "launch",
+            "mainClass": "Hashset.UnionIntersection",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "CountDistinctElement",
+            "request": "launch",
+            "mainClass": "Hashset.CountDistinctElement",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "hashset",
+            "request": "launch",
+            "mainClass": "hashset",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "treemap",
+            "request": "launch",
+            "mainClass": "treemap",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "Treemap",
+            "request": "launch",
+            "mainClass": "Treemap",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "TreeMap",
+            "request": "launch",
+            "mainClass": "TreeMap",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "Prefix_MaxSum",
+            "request": "launch",
+            "mainClass": "Arrays.Prefix_MaxSum",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
             "name": "LinkedHashmap",
             "request": "launch",
             "mainClass": "LinkedHashmap",
