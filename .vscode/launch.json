@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestWord",
+            "request": "launch",
+            "mainClass": "Tries.LongestWord",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "StartsWith",
+            "request": "launch",
+            "mainClass": "Tries.StartsWith",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "PrefixProb",
+            "request": "launch",
+            "mainClass": "Tries.PrefixProb",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "WorkBreakProb",
+            "request": "launch",
+            "mainClass": "Tries.WorkBreakProb",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "Tries",
+            "request": "launch",
+            "mainClass": "Tries.Tries",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
             "name": "ValidAnagram",
             "request": "launch",
             "mainClass": "Hashmap.ValidAnagram",
