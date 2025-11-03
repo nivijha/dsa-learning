@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HasPath",
+            "request": "launch",
+            "mainClass": "Graphs.HasPath",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "DFS",
+            "request": "launch",
+            "mainClass": "Graphs.DFS",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "BFS",
+            "request": "launch",
+            "mainClass": "Graphs.BFS",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "AdjacencyList",
+            "request": "launch",
+            "mainClass": "Graphs.AdjacencyList",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
             "name": "LongestWord",
             "request": "launch",
             "mainClass": "Tries.LongestWord",
