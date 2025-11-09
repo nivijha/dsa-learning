@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BellmanFordAlgorithm",
+            "request": "launch",
+            "mainClass": "Graphs.BellmanFordAlgorithm",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "Dijisktra",
+            "request": "launch",
+            "mainClass": "Graphs.Dijisktra",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "AllPaths",
+            "request": "launch",
+            "mainClass": "Graphs.AllPaths",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "TopologicalSorting",
+            "request": "launch",
+            "mainClass": "Graphs.TopologicalSorting",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "BipartiteGraph",
+            "request": "launch",
+            "mainClass": "Graphs.BipartiteGraph",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "CycleDetectionDirected",
+            "request": "launch",
+            "mainClass": "Graphs.CycleDetectionDirected",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "CycleDetection",
+            "request": "launch",
+            "mainClass": "Graphs.CycleDetection",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
+            "name": "DisjointGraph",
+            "request": "launch",
+            "mainClass": "Graphs.DisjointGraph",
+            "projectName": "dsa-learning_d12b6c60"
+        },
+        {
+            "type": "java",
             "name": "HasPath",
             "request": "launch",
             "mainClass": "Graphs.HasPath",
