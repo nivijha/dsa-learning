@@ -92,6 +92,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/nivijha/dsa-learning/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/nivijha/dsa-learning/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
@@ -100,6 +101,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Array
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/nivijha/dsa-learning/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
