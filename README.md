@@ -92,8 +92,21 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/nivijha/dsa-learning/tree/master/0374-guess-number-higher-or-lower) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/nivijha/dsa-learning/tree/master/0374-guess-number-higher-or-lower) |
+## Array
+|  |
+| ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
+## Two Pointers
+|  |
+| ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
+## Sorting
+|  |
+| ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
