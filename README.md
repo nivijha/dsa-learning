@@ -69,3 +69,23 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 - LinkedIn: [Nivi Jha](https://www.linkedin.com/in/nivi-jha/)
 
 🧠 Happy Coding!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/nivijha/dsa-learning/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/nivijha/dsa-learning/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/nivijha/dsa-learning/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/nivijha/dsa-learning/tree/master/0901-online-stock-span) |
+<!---LeetCode Topics End-->
