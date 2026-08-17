@@ -88,4 +88,12 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/nivijha/dsa-learning/tree/master/0901-online-stock-span) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/nivijha/dsa-learning/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/nivijha/dsa-learning/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
