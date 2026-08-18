@@ -103,6 +103,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/nivijha/dsa-learning/tree/master/0162-find-peak-element) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nivijha/dsa-learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0875-koko-eating-bananas](https://github.com/nivijha/dsa-learning/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
@@ -112,5 +113,10 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Sorting
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nivijha/dsa-learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nivijha/dsa-learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
