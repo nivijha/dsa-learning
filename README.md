@@ -102,6 +102,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nivijha/dsa-learning/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nivijha/dsa-learning/tree/master/0162-find-peak-element) |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nivijha/dsa-learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -126,4 +127,8 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nivijha/dsa-learning/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
