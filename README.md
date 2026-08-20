@@ -104,6 +104,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | ------- |
 | [0136-single-number](https://github.com/nivijha/dsa-learning/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nivijha/dsa-learning/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nivijha/dsa-learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0875-koko-eating-bananas](https://github.com/nivijha/dsa-learning/tree/master/0875-koko-eating-bananas) |
@@ -115,6 +116,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nivijha/dsa-learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -131,4 +133,16 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nivijha/dsa-learning/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
