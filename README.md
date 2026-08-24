@@ -102,6 +102,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nivijha/dsa-learning/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/nivijha/dsa-learning/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nivijha/dsa-learning/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
@@ -145,4 +146,8 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nivijha/dsa-learning/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
