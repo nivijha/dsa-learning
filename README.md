@@ -154,6 +154,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/nivijha/dsa-learning/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/nivijha/dsa-learning/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/nivijha/dsa-learning/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/nivijha/dsa-learning/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/nivijha/dsa-learning/tree/master/1068-product-sales-analysis-i) |
