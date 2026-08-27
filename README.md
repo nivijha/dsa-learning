@@ -154,6 +154,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/nivijha/dsa-learning/tree/master/0595-big-countries) |
+| [1068-product-sales-analysis-i](https://github.com/nivijha/dsa-learning/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/nivijha/dsa-learning/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nivijha/dsa-learning/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/nivijha/dsa-learning/tree/master/1683-invalid-tweets) |
