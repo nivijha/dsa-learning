@@ -174,4 +174,5 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [1683-invalid-tweets](https://github.com/nivijha/dsa-learning/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nivijha/dsa-learning/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/nivijha/dsa-learning/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/nivijha/dsa-learning/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
