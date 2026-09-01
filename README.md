@@ -154,6 +154,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/nivijha/dsa-learning/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/nivijha/dsa-learning/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/nivijha/dsa-learning/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/nivijha/dsa-learning/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nivijha/dsa-learning/tree/master/0570-managers-with-at-least-5-direct-reports) |
