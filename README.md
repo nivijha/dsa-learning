@@ -199,4 +199,16 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [1907-count-salary-categories](https://github.com/nivijha/dsa-learning/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/nivijha/dsa-learning/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/nivijha/dsa-learning/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Depth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/nivijha/dsa-learning/tree/master/0841-keys-and-rooms) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/nivijha/dsa-learning/tree/master/0841-keys-and-rooms) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/nivijha/dsa-learning/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
