@@ -202,13 +202,20 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/nivijha/dsa-learning/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/nivijha/dsa-learning/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/nivijha/dsa-learning/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/nivijha/dsa-learning/tree/master/0841-keys-and-rooms) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/nivijha/dsa-learning/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/nivijha/dsa-learning/tree/master/0841-keys-and-rooms) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/nivijha/dsa-learning/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
