@@ -204,16 +204,19 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | ------- |
 | [0547-number-of-provinces](https://github.com/nivijha/dsa-learning/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/nivijha/dsa-learning/tree/master/0841-keys-and-rooms) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nivijha/dsa-learning/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/nivijha/dsa-learning/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/nivijha/dsa-learning/tree/master/0841-keys-and-rooms) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nivijha/dsa-learning/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/nivijha/dsa-learning/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/nivijha/dsa-learning/tree/master/0841-keys-and-rooms) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nivijha/dsa-learning/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union-Find
 |  |
 | ------- |
