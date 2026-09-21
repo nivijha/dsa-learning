@@ -103,6 +103,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nivijha/dsa-learning/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/nivijha/dsa-learning/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nivijha/dsa-learning/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nivijha/dsa-learning/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
@@ -150,6 +151,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nivijha/dsa-learning/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/nivijha/dsa-learning/tree/master/0128-longest-consecutive-sequence) |
 ## Database
 |  |
 | ------- |
@@ -220,5 +222,6 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nivijha/dsa-learning/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/nivijha/dsa-learning/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
