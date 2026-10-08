@@ -133,6 +133,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/nivijha/dsa-learning/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -231,6 +232,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nivijha/dsa-learning/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1143-longest-common-subsequence](https://github.com/nivijha/dsa-learning/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -243,4 +245,8 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/nivijha/dsa-learning/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
