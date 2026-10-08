@@ -109,6 +109,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nivijha/dsa-learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
 | [0875-koko-eating-bananas](https://github.com/nivijha/dsa-learning/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
@@ -131,6 +132,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
+| [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -233,4 +235,12 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nivijha/dsa-learning/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
