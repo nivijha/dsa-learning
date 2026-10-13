@@ -76,6 +76,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/nivijha/dsa-learning/tree/master/0901-online-stock-span) |
+| [1106-parsing-a-boolean-expression](https://github.com/nivijha/dsa-learning/tree/master/1106-parsing-a-boolean-expression) |
 ## Design
 |  |
 | ------- |
@@ -242,6 +243,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0132-palindrome-partitioning-ii](https://github.com/nivijha/dsa-learning/tree/master/0132-palindrome-partitioning-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/nivijha/dsa-learning/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/nivijha/dsa-learning/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/nivijha/dsa-learning/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/nivijha/dsa-learning/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nivijha/dsa-learning/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
@@ -274,4 +276,8 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nivijha/dsa-learning/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Recursion
+|  |
+| ------- |
+| [1106-parsing-a-boolean-expression](https://github.com/nivijha/dsa-learning/tree/master/1106-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
