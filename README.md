@@ -118,6 +118,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/nivijha/dsa-learning/tree/master/0086-partition-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
@@ -280,4 +281,8 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [1106-parsing-a-boolean-expression](https://github.com/nivijha/dsa-learning/tree/master/1106-parsing-a-boolean-expression) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/nivijha/dsa-learning/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
