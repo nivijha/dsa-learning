@@ -80,6 +80,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/nivijha/dsa-learning/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/nivijha/dsa-learning/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -168,6 +169,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0001-two-sum](https://github.com/nivijha/dsa-learning/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nivijha/dsa-learning/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/nivijha/dsa-learning/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/nivijha/dsa-learning/tree/master/0146-lru-cache) |
 ## Database
 |  |
 | ------- |
@@ -288,6 +290,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/nivijha/dsa-learning/tree/master/0086-partition-list) |
+| [0146-lru-cache](https://github.com/nivijha/dsa-learning/tree/master/0146-lru-cache) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -300,4 +303,8 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nivijha/dsa-learning/tree/master/0062-unique-paths) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nivijha/dsa-learning/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
