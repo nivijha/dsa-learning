@@ -114,6 +114,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nivijha/dsa-learning/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/nivijha/dsa-learning/tree/master/0875-koko-eating-bananas) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/nivijha/dsa-learning/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
@@ -143,6 +144,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [1092-shortest-common-supersequence](https://github.com/nivijha/dsa-learning/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/nivijha/dsa-learning/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nivijha/dsa-learning/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/nivijha/dsa-learning/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -285,4 +287,8 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/nivijha/dsa-learning/tree/master/0086-partition-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/nivijha/dsa-learning/tree/master/2100-find-good-days-to-rob-the-bank) |
 <!---LeetCode Topics End-->
