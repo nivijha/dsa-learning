@@ -154,10 +154,12 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nivijha/dsa-learning/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nivijha/dsa-learning/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -289,6 +291,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nivijha/dsa-learning/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/nivijha/dsa-learning/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/nivijha/dsa-learning/tree/master/0146-lru-cache) |
 ## Prefix Sum
@@ -307,4 +310,12 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nivijha/dsa-learning/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nivijha/dsa-learning/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nivijha/dsa-learning/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
