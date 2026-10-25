@@ -96,6 +96,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0162-find-peak-element](https://github.com/nivijha/dsa-learning/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/nivijha/dsa-learning/tree/master/0374-guess-number-higher-or-lower) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nivijha/dsa-learning/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/nivijha/dsa-learning/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0875-koko-eating-bananas](https://github.com/nivijha/dsa-learning/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Interactive
@@ -114,6 +115,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nivijha/dsa-learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nivijha/dsa-learning/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/nivijha/dsa-learning/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0875-koko-eating-bananas](https://github.com/nivijha/dsa-learning/tree/master/0875-koko-eating-bananas) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/nivijha/dsa-learning/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -121,6 +123,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/nivijha/dsa-learning/tree/master/0086-partition-list) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/nivijha/dsa-learning/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
@@ -128,6 +131,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nivijha/dsa-learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/nivijha/dsa-learning/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
