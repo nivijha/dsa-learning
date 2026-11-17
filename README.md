@@ -111,6 +111,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0136-single-number](https://github.com/nivijha/dsa-learning/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nivijha/dsa-learning/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
+| [0416-partition-equal-subset-sum](https://github.com/nivijha/dsa-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nivijha/dsa-learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
@@ -145,6 +146,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | ------- |
 | [0062-unique-paths](https://github.com/nivijha/dsa-learning/tree/master/0062-unique-paths) |
 | [0132-palindrome-partitioning-ii](https://github.com/nivijha/dsa-learning/tree/master/0132-palindrome-partitioning-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/nivijha/dsa-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/nivijha/dsa-learning/tree/master/0583-delete-operation-for-two-strings) |
@@ -267,6 +269,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nivijha/dsa-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -324,4 +327,8 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nivijha/dsa-learning/tree/master/0023-merge-k-sorted-lists) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nivijha/dsa-learning/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
