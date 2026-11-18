@@ -115,6 +115,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0416-partition-equal-subset-sum](https://github.com/nivijha/dsa-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nivijha/dsa-learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0494-target-sum](https://github.com/nivijha/dsa-learning/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nivijha/dsa-learning/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nivijha/dsa-learning/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -152,6 +153,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0132-palindrome-partitioning-ii](https://github.com/nivijha/dsa-learning/tree/master/0132-palindrome-partitioning-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nivijha/dsa-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/nivijha/dsa-learning/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/nivijha/dsa-learning/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nivijha/dsa-learning/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -272,10 +274,12 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nivijha/dsa-learning/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0494-target-sum](https://github.com/nivijha/dsa-learning/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nivijha/dsa-learning/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nivijha/dsa-learning/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -337,6 +341,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nivijha/dsa-learning/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nivijha/dsa-learning/tree/master/0494-target-sum) |
 ## Meet in the Middle
 |  |
 | ------- |
