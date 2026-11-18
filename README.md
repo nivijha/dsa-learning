@@ -98,6 +98,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nivijha/dsa-learning/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nivijha/dsa-learning/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0875-koko-eating-bananas](https://github.com/nivijha/dsa-learning/tree/master/0875-koko-eating-bananas) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nivijha/dsa-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
@@ -119,6 +120,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nivijha/dsa-learning/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0860-lemonade-change](https://github.com/nivijha/dsa-learning/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/nivijha/dsa-learning/tree/master/0875-koko-eating-bananas) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nivijha/dsa-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/nivijha/dsa-learning/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
@@ -126,6 +128,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | ------- |
 | [0086-partition-list](https://github.com/nivijha/dsa-learning/tree/master/0086-partition-list) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nivijha/dsa-learning/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nivijha/dsa-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
@@ -134,6 +137,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nivijha/dsa-learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nivijha/dsa-learning/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nivijha/dsa-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
@@ -154,11 +158,13 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [1092-shortest-common-supersequence](https://github.com/nivijha/dsa-learning/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/nivijha/dsa-learning/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nivijha/dsa-learning/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nivijha/dsa-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/nivijha/dsa-learning/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nivijha/dsa-learning/tree/master/0136-single-number) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nivijha/dsa-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -331,4 +337,16 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nivijha/dsa-learning/tree/master/0416-partition-equal-subset-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nivijha/dsa-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nivijha/dsa-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nivijha/dsa-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
