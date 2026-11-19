@@ -112,6 +112,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0136-single-number](https://github.com/nivijha/dsa-learning/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nivijha/dsa-learning/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nivijha/dsa-learning/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/nivijha/dsa-learning/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nivijha/dsa-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nivijha/dsa-learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -151,6 +152,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | ------- |
 | [0062-unique-paths](https://github.com/nivijha/dsa-learning/tree/master/0062-unique-paths) |
 | [0132-palindrome-partitioning-ii](https://github.com/nivijha/dsa-learning/tree/master/0132-palindrome-partitioning-ii) |
+| [0322-coin-change](https://github.com/nivijha/dsa-learning/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nivijha/dsa-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/nivijha/dsa-learning/tree/master/0494-target-sum) |
@@ -246,6 +248,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/nivijha/dsa-learning/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/nivijha/dsa-learning/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/nivijha/dsa-learning/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nivijha/dsa-learning/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -278,12 +281,14 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/nivijha/dsa-learning/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nivijha/dsa-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nivijha/dsa-learning/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/nivijha/dsa-learning/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nivijha/dsa-learning/tree/master/0518-coin-change-ii) |
 ## Longest Common Subsequence
 |  |
