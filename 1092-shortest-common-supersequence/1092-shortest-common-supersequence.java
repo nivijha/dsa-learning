@@ -29,7 +29,7 @@ class Solution {
                 i--;
                 j--;
             } else {
-                if (t[i - 1][j] > t[i][j - 1]) {
+                if (t[i - 1][j] >= t[i][j - 1]) {
                     ans.append(s1.charAt(i - 1));
                     i--;
                 } else {
