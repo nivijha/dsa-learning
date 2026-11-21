@@ -1,38 +1,53 @@
 
-import java.util.*;
-
 public class Solution {
-    public int minCut(String A) {
-        int n = A.length();
-        if (n <= 1) return 0;
+    int[][] t;
+    boolean[][] isPal;
 
-        boolean[][] pal = new boolean[n][n];
-        int[] dp = new int[n];
+    public int solve(String A, int i, int j) {
 
-        // Precompute palindromes
-        for (int i = n - 1; i >= 0; i--) {
-            for (int j = i; j < n; j++) {
-                if (A.charAt(i) == A.charAt(j)) {
-                    pal[i][j] = (j - i <= 2) || pal[i + 1][j - 1];
-                }
+        if(i >= j || isPal[i][j]) {
+            return 0;
+        }
+
+        if(t[i][j] != -1) {
+            return t[i][j];
+        }
+
+        int min = Integer.MAX_VALUE;
+
+        for(int k = i; k < j; k++) {
+
+            if(isPal[i][k]) {
+                int right = solve(A, k+1, j);
+                min = Math.min(min, 1 + right);
             }
         }
 
-        // Minimum cuts for every prefix A[0...i]
-        for (int i = 0; i < n; i++) {
-            if (pal[0][i]) {
-                dp[i] = 0;
-            } else {
-                dp[i] = i;
+        return t[i][j] = min;
+    }
 
-                for (int j = 1; j <= i; j++) {
-                    if (pal[j][i]) {
-                        dp[i] = Math.min(dp[i], dp[j - 1] + 1);
+    public int minCut(String A) {
+
+        int n = A.length();
+
+        t = new int[n][n];
+        isPal = new boolean[n][n];
+
+        for(int i = 0; i < n; i++) {
+            Arrays.fill(t[i], -1);
+        }
+
+        for(int i = n-1; i >= 0; i--) {
+            for(int j = i; j < n; j++) {
+
+                if(A.charAt(i) == A.charAt(j)) {
+                    if(j-i <= 2 || isPal[i+1][j-1]) {
+                        isPal[i][j] = true;
                     }
                 }
             }
         }
 
-        return dp[n - 1];
+        return solve(A, 0, n-1);
     }
 }
