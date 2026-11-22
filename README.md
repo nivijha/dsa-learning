@@ -130,6 +130,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | ------- |
 | [0086-partition-list](https://github.com/nivijha/dsa-learning/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nivijha/dsa-learning/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/nivijha/dsa-learning/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nivijha/dsa-learning/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nivijha/dsa-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nivijha/dsa-learning/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -154,6 +155,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0062-unique-paths](https://github.com/nivijha/dsa-learning/tree/master/0062-unique-paths) |
 | [0132-palindrome-partitioning-ii](https://github.com/nivijha/dsa-learning/tree/master/0132-palindrome-partitioning-ii) |
 | [0322-coin-change](https://github.com/nivijha/dsa-learning/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/nivijha/dsa-learning/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nivijha/dsa-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nivijha/dsa-learning/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/nivijha/dsa-learning/tree/master/0494-target-sum) |
@@ -270,6 +272,7 @@ This repository is primarily for my own learning, but if you spot any mistakes, 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nivijha/dsa-learning/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0132-palindrome-partitioning-ii](https://github.com/nivijha/dsa-learning/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/nivijha/dsa-learning/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/nivijha/dsa-learning/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nivijha/dsa-learning/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/nivijha/dsa-learning/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/nivijha/dsa-learning/tree/master/1106-parsing-a-boolean-expression) |
